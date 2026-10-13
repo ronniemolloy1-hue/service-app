@@ -1,0 +1,5 @@
+node_modules/
+.admin-password
+data/
+*.log
+screenshots/
